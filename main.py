@@ -1,1 +1,2 @@
-print("hello world")
+def log():
+    print("hello world")
